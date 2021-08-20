@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lgloriane
 - 👀 I’m interested in so many things ✨
-- 🌱 I’m currently learning how to solve problems/troubleshoot efficiently, enhancing my coding skills, automate tasks and many more. 
+- 🌱 I’m currently working with how to solve problems/troubleshoot efficiently, enhancing my coding skills, automate tasks and many more. 
 
 
 <!---

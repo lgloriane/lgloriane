@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lgloriane
-- 👀 I’m interested in so many things ✨
-- 🌱 I’m currently working with how to solve problems/troubleshoot efficiently, enhancing my coding skills, automate tasks and many more. 
+- 👀 I’m interested in 🤫 ✨
+- 🌱 I’m currently working with 🤫. 
 -
 - aren't stars, planets, and people just glitches in an otherwise elegant and uniform nothingness, like pieces of lint on a black sweater?
 
